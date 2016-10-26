@@ -1,0 +1,6 @@
+[submodule "3rd/lua-ziparchive"]
+	path = 3rd/lua-ziparchive
+	url = https://github.com/jjensen/lua-ziparchive.git
+[submodule "3rd/lua-xmlize"]
+	path = 3rd/lua-xmlize
+	url = https://github.com/jjensen/lua-xmlize.git
